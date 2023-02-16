@@ -37,9 +37,31 @@ p {
   padding: 10px 30px;
   display: flex;
   align-items: center;
-  justify-content: ;
+  justify-content: space-between;
 }
 
+.site_header h1 {
+ font-size: 32px;
+ text-transform: capitalize;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.site_header h1,
+.site_header h1 a,
+.site_header h1 a:visited {
+  color: #f5ff00;
+  text-decoration: none;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 32px;
+  padding: 20px 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 0;
+}
 
 
 /* Colors */
