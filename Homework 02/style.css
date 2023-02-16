@@ -63,6 +63,27 @@ p {
   margin: 0;
 }
 
+.main-nav li {
+
+  padding-left: 20px;
+}
+
+.main-nav li,
+.main-nav li a,
+.main-nav li a:visited {
+
+  color: #fff;
+  text-decoration: none;
+}
+
+.main-nav li a:hover {
+  color: #f2ff00;
+}
+
+.main-nav-item-featured {
+  text-transform: uppercase;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
 
 /* Colors */
 /* Dark yellow: #f2ff00 */
