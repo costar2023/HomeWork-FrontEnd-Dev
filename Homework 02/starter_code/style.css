@@ -16,6 +16,21 @@ p {
       .oswald { font-family: 'Oswald', sans-serif; }
         .lato { font-family: 'Lato', sans-serif; }
 
+.cta{
+  border-radius: 10px;
+  color: #000;
+  display: block;
+  font-size: 32px;
+  padding: 10px 45px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
 /* Colors */
 /* Dark yellow: #f2ff00 */
 /* Lighter yellow: #ffd900 */
